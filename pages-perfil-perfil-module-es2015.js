@@ -101,7 +101,7 @@ PerfilPageModule = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"])([
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (".avatar-profile {\n  position: relative;\n  left: 295px;\n  margin-top: 53px;\n  border: 1px solid #b6dcf3;\n  width: 60px;\n  height: 60px;\n  background-color: #b6dcf3;\n}\n\n.fav, .share {\n  font-size: 17px;\n}\n\n.fav {\n  position: absolute;\n  right: 16px;\n}\n\n.share {\n  position: absolute;\n  left: 0;\n}\n\n.cardStyle {\n  text-align: center;\n  font-size: 17px;\n  height: 45px;\n  margin-top: -22px;\n}\n\n.apuntarse, .desapuntarse {\n  font-size: 10px;\n  padding-top: 2.5px;\n}\n\n.imagen {\n  width: 311px;\n  height: 205px;\n}\n\n.imagenCard {\n  width: 100%;\n  height: 100%;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcGFnZXMvcGVyZmlsL3BlcmZpbC5wYWdlLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDSSxrQkFBQTtFQUNBLFdBQUE7RUFDQSxnQkFBQTtFQUNBLHlCQUFBO0VBQ0EsV0FBQTtFQUNBLFlBQUE7RUFDQSx5QkFBQTtBQUNKOztBQUNBO0VBQ0ksZUFBQTtBQUVKOztBQUFBO0VBQ0ksa0JBQUE7RUFDQSxXQUFBO0FBR0o7O0FBREE7RUFDSSxrQkFBQTtFQUNBLE9BQUE7QUFJSjs7QUFGQTtFQUNJLGtCQUFBO0VBQ0EsZUFBQTtFQUNBLFlBQUE7RUFDQSxpQkFBQTtBQUtKOztBQUZBO0VBQ0ksZUFBQTtFQUNBLGtCQUFBO0FBS0o7O0FBSEE7RUFDSSxZQUFBO0VBQ0EsYUFBQTtBQU1KOztBQUpBO0VBQ0ksV0FBQTtFQUNBLFlBQUE7QUFPSiIsImZpbGUiOiJzcmMvYXBwL3BhZ2VzL3BlcmZpbC9wZXJmaWwucGFnZS5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmF2YXRhci1wcm9maWxlIHtcclxuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuICAgIGxlZnQ6IDI5NXB4O1xyXG4gICAgbWFyZ2luLXRvcDogNTNweDtcclxuICAgIGJvcmRlcjogMXB4IHNvbGlkICNiNmRjZjM7XHJcbiAgICB3aWR0aDogNjBweDtcclxuICAgIGhlaWdodDogNjBweDtcclxuICAgIGJhY2tncm91bmQtY29sb3I6ICNiNmRjZjM7XHJcbn1cclxuLmZhdiwgLnNoYXJlIHtcclxuICAgIGZvbnQtc2l6ZTogMTdweDtcclxufVxyXG4uZmF2e1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgcmlnaHQ6IDE2cHg7XHJcbn1cclxuLnNoYXJle1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgbGVmdDogMDtcclxufVxyXG4uY2FyZFN0eWxlIHtcclxuICAgIHRleHQtYWxpZ246IGNlbnRlcjsgXHJcbiAgICBmb250LXNpemU6IDE3cHg7IFxyXG4gICAgaGVpZ2h0OiA0NXB4OyBcclxuICAgIG1hcmdpbi10b3A6IC0yMnB4O1xyXG59XHJcblxyXG4uYXB1bnRhcnNlLCAuZGVzYXB1bnRhcnNle1xyXG4gICAgZm9udC1zaXplOiAxMHB4O1xyXG4gICAgcGFkZGluZy10b3A6IDIuNXB4O1xyXG59XHJcbi5pbWFnZW4ge1xyXG4gICAgd2lkdGg6IDMxMXB4O1xyXG4gICAgaGVpZ2h0OiAyMDVweDtcclxufVxyXG4uaW1hZ2VuQ2FyZCB7XHJcbiAgICB3aWR0aDogMTAwJTtcclxuICAgIGhlaWdodDogMTAwJTtcclxufVxyXG5cclxuICAgICJdfQ== */");
+/* harmony default export */ __webpack_exports__["default"] = (".avatar-profile {\n  position: relative;\n  left: 285px;\n  margin-top: 6px;\n  border: 1px solid #b6dcf3;\n  width: 60px;\n  height: 60px;\n  background-color: #b6dcf3;\n}\n\n.fav, .share {\n  font-size: 17px;\n}\n\n.fav {\n  position: absolute;\n  right: 16px;\n}\n\n.share {\n  position: absolute;\n  left: 0;\n}\n\n.cardStyle {\n  text-align: center;\n  font-size: 17px;\n  height: 45px;\n  margin-top: -22px;\n}\n\n.apuntarse, .desapuntarse {\n  font-size: 10px;\n  padding-top: 2.5px;\n}\n\n.imagen {\n  width: 311px;\n  height: 205px;\n}\n\n.imagenCard {\n  width: 100%;\n  height: 100%;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcGFnZXMvcGVyZmlsL3BlcmZpbC5wYWdlLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDSSxrQkFBQTtFQUNBLFdBQUE7RUFDQSxlQUFBO0VBQ0EseUJBQUE7RUFDQSxXQUFBO0VBQ0EsWUFBQTtFQUNBLHlCQUFBO0FBQ0o7O0FBQ0E7RUFDSSxlQUFBO0FBRUo7O0FBQUE7RUFDSSxrQkFBQTtFQUNBLFdBQUE7QUFHSjs7QUFEQTtFQUNJLGtCQUFBO0VBQ0EsT0FBQTtBQUlKOztBQUZBO0VBQ0ksa0JBQUE7RUFDQSxlQUFBO0VBQ0EsWUFBQTtFQUNBLGlCQUFBO0FBS0o7O0FBRkE7RUFDSSxlQUFBO0VBQ0Esa0JBQUE7QUFLSjs7QUFIQTtFQUNJLFlBQUE7RUFDQSxhQUFBO0FBTUo7O0FBSkE7RUFDSSxXQUFBO0VBQ0EsWUFBQTtBQU9KIiwiZmlsZSI6InNyYy9hcHAvcGFnZXMvcGVyZmlsL3BlcmZpbC5wYWdlLnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYXZhdGFyLXByb2ZpbGUge1xyXG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xyXG4gICAgbGVmdDogMjg1cHg7XHJcbiAgICBtYXJnaW4tdG9wOiA2cHg7XHJcbiAgICBib3JkZXI6IDFweCBzb2xpZCAjYjZkY2YzO1xyXG4gICAgd2lkdGg6IDYwcHg7XHJcbiAgICBoZWlnaHQ6IDYwcHg7XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjYjZkY2YzO1xyXG59XHJcbi5mYXYsIC5zaGFyZSB7XHJcbiAgICBmb250LXNpemU6IDE3cHg7XHJcbn1cclxuLmZhdntcclxuICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcclxuICAgIHJpZ2h0OiAxNnB4O1xyXG59XHJcbi5zaGFyZXtcclxuICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcclxuICAgIGxlZnQ6IDA7XHJcbn1cclxuLmNhcmRTdHlsZSB7XHJcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7IFxyXG4gICAgZm9udC1zaXplOiAxN3B4OyBcclxuICAgIGhlaWdodDogNDVweDsgXHJcbiAgICBtYXJnaW4tdG9wOiAtMjJweDtcclxufVxyXG5cclxuLmFwdW50YXJzZSwgLmRlc2FwdW50YXJzZXtcclxuICAgIGZvbnQtc2l6ZTogMTBweDtcclxuICAgIHBhZGRpbmctdG9wOiAyLjVweDtcclxufVxyXG4uaW1hZ2VuIHtcclxuICAgIHdpZHRoOiAzMTFweDtcclxuICAgIGhlaWdodDogMjA1cHg7XHJcbn1cclxuLmltYWdlbkNhcmQge1xyXG4gICAgd2lkdGg6IDEwMCU7XHJcbiAgICBoZWlnaHQ6IDEwMCU7XHJcbn1cclxuXHJcbiAgICAiXX0= */");
 
 /***/ }),
 
@@ -177,35 +177,72 @@ let PerfilPage = class PerfilPage {
             //Tenemos una lista de todos los eventos cargados
             //Tenemos una lista que va a ir cargando los eventos poco a poco - esta es la que se usa
             if (this.booleanEventos) {
-                //limite de eventos propios
+                //Limite de eventos propios
                 this.limitePropio = this.limitePropio + 3;
+                //Antes de llamar al servicio coger los eventos que tenemos ahora mismo
+                const numeroVariableAntiguoEvento = this.eventosPropios.length;
                 //Cargar en la lista propia mis eventos
                 yield this._eventoService.getEventos(this.limitePropio);
-                this.eventosPropios = this._eventoService.eventosPropios;
+                //Saber los eventos que tenemos nuevos
+                const numeroVariableNuevoEvento = this._eventoService.eventosPropios.length;
+                //Carga del servicio la lista de los eventos
+                if (numeroVariableAntiguoEvento == numeroVariableNuevoEvento) {
+                    event.target.disabled = true;
+                }
+                else {
+                    this.eventosPropios = this._eventoService.eventosPropios;
+                }
             }
             else if (this.booleanLibrerias) {
-                //limite de usuarios tipo - libreria
+                //Limite de usuarios tipo - libreria
                 this.limiteUsuariosLibreros = this.limiteUsuariosLibreros + 3;
-                //llamar al servicio para llamar al back para recuperar los libros
+                //Antes de llamar al servicio coger las librerias que tenemos ahora mismo
+                const numeroVariableAntiguaLibreria = this.usuariosLibreros.length;
+                //Llamar al servicio para llamar al back para recuperar los libros
                 yield this._usuarioService.mostrarLibreria(this.limiteUsuariosLibreros);
-                //Carga del servicio la lista de usuarios
-                this.usuariosLibreros = this._usuarioService.usuarioLibreria;
+                //Saber las librerias que tenemos nuevas
+                const numeroVariableNuevaLibreria = this._usuarioService.usuarioLibreria.length;
+                //Carga del servicio la lista de las librerias
+                if (numeroVariableAntiguaLibreria == numeroVariableNuevaLibreria) {
+                    event.target.disabled = true;
+                }
+                else {
+                    this.usuariosLibreros = this._usuarioService.usuarioLibreria;
+                }
             }
             else if (this.booleanLibros) {
                 //Limite de libros
                 this.limiteLibrosPropio = this.limiteLibrosPropio + 3;
+                //Antes de llamar al servicio coger los libros que tenemos ahora mismo
+                const numeroVariableAntiguoLibro = this.librosPropios.length;
                 //Llamar al servicio para llamar al back para recuperar los libros
                 yield this._libroService.mostrarLibros(this.limiteLibrosPropio);
-                //Carga del servicio la lista de libros
-                this.librosPropios = this._libroService.librosPropios;
+                //Saber los libros que tenemos nuevos
+                const numeroVariableNuevoLibro = this._libroService.librosPropios.length;
+                //Carga del servicio la lista de los libros
+                if (numeroVariableAntiguoLibro == numeroVariableNuevoLibro) {
+                    event.target.disabled = true;
+                }
+                else {
+                    this.librosPropios = this._libroService.librosPropios;
+                }
             }
             else if (this.booleanFavoritos) {
                 //Limite favoritos
                 this.limiteFavoritos = this.limiteFavoritos + 3;
+                //Antes de llamar al servicio coger los favoritos que tenemos ahora mismo
+                const numeroVariableAntiguoFavorito = this.usuariosLibreros.length;
                 //Llamar al servicio para llamar al back para recuperar las librerias favoritas 
                 yield this._usuarioService.mostrarLibreriasFavoritas(this.limiteFavoritos);
-                //Carga del servicio la lista de favoritos 
-                this.usuariosLibreros = this._usuarioService.usuarioLibreria;
+                //Saber los favoritos que tenemos nuevos
+                const numeroVariableNuevoFavorito = this._usuarioService.usuarioLibreria.length;
+                //Carga del servicio la lista de los favoritos
+                if (numeroVariableAntiguoFavorito == numeroVariableNuevoFavorito) {
+                    event.target.disabled = true;
+                }
+                else {
+                    this.usuariosLibreros = this._usuarioService.usuarioLibreria;
+                }
             }
             //completar la accion de cargar los eventos
             event.target.complete();
@@ -217,6 +254,7 @@ let PerfilPage = class PerfilPage {
     }
     librerias() {
         return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"])(this, void 0, void 0, function* () {
+            this.infiniteScroll.disabled = false;
             //Poner a true el boolean de librerias para saber que estamos viendo librerias
             this.booleanLibrerias = true;
             this.booleanFavoritos = false;
@@ -238,6 +276,7 @@ let PerfilPage = class PerfilPage {
     }
     eventos() {
         return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"])(this, void 0, void 0, function* () {
+            this.infiniteScroll.disabled = false;
             //Poner a true el boolean de Eventos para saber que estamos viendo Eventos
             this.booleanLibrerias = false;
             this.booleanFavoritos = false;
@@ -257,6 +296,7 @@ let PerfilPage = class PerfilPage {
     }
     libros() {
         return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"])(this, void 0, void 0, function* () {
+            this.infiniteScroll.disabled = false;
             //Poner a true el boolean de Libros para saber que estamos viendo Libros
             this.booleanLibrerias = false;
             this.booleanFavoritos = false;
@@ -277,6 +317,7 @@ let PerfilPage = class PerfilPage {
     //Boton del menu - favoritos
     fav() {
         return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"])(this, void 0, void 0, function* () {
+            this.infiniteScroll.disabled = false;
             //Poner a true el boolean de Favoritos para saber que estamos viendo Favoritos
             this.booleanLibrerias = false;
             this.booleanFavoritos = true;

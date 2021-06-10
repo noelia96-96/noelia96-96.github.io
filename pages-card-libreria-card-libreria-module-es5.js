@@ -330,47 +330,64 @@
           key: "loadData",
           value: function loadData(event) {
             return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"])(this, void 0, void 0, /*#__PURE__*/regeneratorRuntime.mark(function _callee2() {
-              var nombreLibreriaPinchada, _nombreLibreriaPinchada;
+              var numeroVariableAntiguoEvento, nombreLibreriaPinchada, numeroVariableNuevoEvento, numeroVariableAntiguoLibro, _nombreLibreriaPinchada, numeroVariableNuevoLibro;
 
               return regeneratorRuntime.wrap(function _callee2$(_context2) {
                 while (1) {
                   switch (_context2.prev = _context2.next) {
                     case 0:
                       if (!this.booleanEventos) {
-                        _context2.next = 8;
+                        _context2.next = 10;
                         break;
                       }
 
                       //Limite de eventos propios
-                      this.limitePropio = this.limitePropio + 3; //Llamar al servicio para llamar al back para recuperar los eventos
+                      this.limitePropio = this.limitePropio + 3; //Antes de llamar al servicio coger los eventos que tenemos ahora mismo
+
+                      numeroVariableAntiguoEvento = this.eventosPropios.length; //Llamar al servicio para llamar al back para recuperar los eventos
 
                       nombreLibreriaPinchada = this.libreriaPinchada.nombre;
-                      _context2.next = 5;
+                      _context2.next = 6;
                       return this._eventoService.mostrarEventosPicharCard(this.limitePropio, nombreLibreriaPinchada);
 
-                    case 5:
-                      //Carga del servicio la lista de los eventos
-                      this.eventosPropios = this._eventoService.eventoCardPinchada;
-                      _context2.next = 13;
+                    case 6:
+                      //Saber los eventos que tenemos nuevos
+                      numeroVariableNuevoEvento = this._eventoService.eventoCardPinchada.length; //Carga del servicio la lista de los eventos
+
+                      if (numeroVariableAntiguoEvento == numeroVariableNuevoEvento) {
+                        event.target.disabled = true;
+                      } else {
+                        this.eventosPropios = this._eventoService.eventoCardPinchada;
+                      }
+
+                      _context2.next = 17;
                       break;
 
-                    case 8:
+                    case 10:
                       //Limite de libros
-                      this.limiteLibrosPropio = this.limiteLibrosPropio + 3; //Llamar al servicio para llamar al back para recuperar los libros
+                      this.limiteLibrosPropio = this.limiteLibrosPropio + 3; //Antes de llamar al servicio coger los libros que tenemos ahora mismo
+
+                      numeroVariableAntiguoLibro = this.librosPropios.length; //Llamar al servicio para llamar al back para recuperar los libros
 
                       _nombreLibreriaPinchada = this.libreriaPinchada.nombre;
-                      _context2.next = 12;
+                      _context2.next = 15;
                       return this._libroService.mostrarLibrosPicharCard(this.limiteLibrosPropio, _nombreLibreriaPinchada);
 
-                    case 12:
-                      //Carga del servicio la lista de libros
-                      this.librosPropios = this._libroService.libroCardPinchada;
+                    case 15:
+                      //Saber los libros que tenemos nuevos
+                      numeroVariableNuevoLibro = this._libroService.libroCardPinchada.length; //Carga del servicio la lista de los libros
 
-                    case 13:
+                      if (numeroVariableAntiguoLibro == numeroVariableNuevoLibro) {
+                        event.target.disabled = true;
+                      } else {
+                        this.librosPropios = this._libroService.libroCardPinchada;
+                      }
+
+                    case 17:
                       //completar la accion de cargar los eventos
                       event.target.complete();
 
-                    case 14:
+                    case 18:
                     case "end":
                       return _context2.stop();
                   }
@@ -394,6 +411,7 @@
                 while (1) {
                   switch (_context3.prev = _context3.next) {
                     case 0:
+                      this.infiniteScroll.disabled = false;
                       this.booleanEventos = false; //Quitar de la lista contraria los eventos
 
                       this.eventosPropios = []; //Quitar de la lista contraria las librerias
@@ -403,14 +421,14 @@
                       this.limiteLibrosPropio = 3; //Llamar al servicio para llamar al back para recuperar los libros
 
                       nombreLibreriaPinchada = this.libreriaPinchada.nombre;
-                      _context3.next = 7;
+                      _context3.next = 8;
                       return this._libroService.mostrarLibrosPicharCard(this.limiteLibrosPropio, nombreLibreriaPinchada);
 
-                    case 7:
+                    case 8:
                       //Carga del servicio la lista de libros
                       this.librosPropios = this._libroService.libroCardPinchada;
 
-                    case 8:
+                    case 9:
                     case "end":
                       return _context3.stop();
                   }
@@ -427,6 +445,7 @@
                 while (1) {
                   switch (_context4.prev = _context4.next) {
                     case 0:
+                      this.infiniteScroll.disabled = false;
                       this.booleanEventos = true; //Quitar de la lista contraria las librerias
 
                       this.usuariosLibreros = []; //Quitar de la lista contraria los libros
@@ -436,14 +455,14 @@
                       this.limitePropio = 3; //Llamar al servicio para llamar al back para recuperar los eventos
 
                       nombreLibreriaPinchada = this.libreriaPinchada.nombre;
-                      _context4.next = 7;
+                      _context4.next = 8;
                       return this._eventoService.mostrarEventosPicharCard(this.limitePropio, nombreLibreriaPinchada);
 
-                    case 7:
+                    case 8:
                       //Carga del servicio la lista de los eventos
                       this.eventosPropios = this._eventoService.eventoCardPinchada;
 
-                    case 8:
+                    case 9:
                     case "end":
                       return _context4.stop();
                   }

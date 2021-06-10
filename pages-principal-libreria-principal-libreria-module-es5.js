@@ -181,7 +181,7 @@
       /* harmony default export */
 
 
-      __webpack_exports__["default"] = ".content {\n  overflow-y: hidden;\n  background-color: white;\n}\n\n.options {\n  margin-top: 12px;\n}\n\n.avatar-profile {\n  position: relative;\n  left: 295px;\n  margin-top: 53px;\n  width: 60px;\n  height: 60px;\n}\n\n.bar-stable {\n  margin-top: 12px;\n}\n\n.tool-foot {\n  text-align: center;\n  margin-top: 10px;\n}\n\n.card-titulo {\n  color: #3d3df0;\n  text-align: center;\n  font-size: 17px;\n  height: 45px;\n  margin-top: -24px;\n}\n\n.button-event, .button-book {\n  width: 122px;\n  height: 38px;\n  margin-top: 14px;\n  margin-bottom: 12px;\n}\n\n.localizacion, .share {\n  font-size: 17px;\n}\n\n.option {\n  font-size: 15px;\n}\n\n.reservado {\n  font-size: 15px;\n  position: absolute;\n  left: 0;\n}\n\n.personaReservaLibro {\n  font-size: 13px;\n}\n\n.imagen {\n  width: 344px;\n  height: 205px;\n}\n\n.imagenCard {\n  width: 100%;\n  height: 100%;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcGFnZXMvcHJpbmNpcGFsLWxpYnJlcmlhL3ByaW5jaXBhbC1saWJyZXJpYS5wYWdlLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDSSxrQkFBQTtFQUNBLHVCQUFBO0FBQ0o7O0FBQ0E7RUFDSSxnQkFBQTtBQUVKOztBQUFBO0VBQ0ksa0JBQUE7RUFDQSxXQUFBO0VBQ0EsZ0JBQUE7RUFDQSxXQUFBO0VBQ0EsWUFBQTtBQUdKOztBQURBO0VBQ0ksZ0JBQUE7QUFJSjs7QUFGQTtFQUNJLGtCQUFBO0VBQ0EsZ0JBQUE7QUFLSjs7QUFGQTtFQUNJLGNBQUE7RUFDQSxrQkFBQTtFQUNBLGVBQUE7RUFDQSxZQUFBO0VBQ0EsaUJBQUE7QUFLSjs7QUFIQTtFQUNJLFlBQUE7RUFDQSxZQUFBO0VBQ0EsZ0JBQUE7RUFDQSxtQkFBQTtBQU1KOztBQUpBO0VBQ0ksZUFBQTtBQU9KOztBQUxBO0VBQ0ksZUFBQTtBQVFKOztBQU5BO0VBQ0ksZUFBQTtFQUNBLGtCQUFBO0VBQ0EsT0FBQTtBQVNKOztBQVBBO0VBQ0ksZUFBQTtBQVVKOztBQVJBO0VBQ0ksWUFBQTtFQUNBLGFBQUE7QUFXSjs7QUFUQTtFQUNJLFdBQUE7RUFDQSxZQUFBO0FBWUoiLCJmaWxlIjoic3JjL2FwcC9wYWdlcy9wcmluY2lwYWwtbGlicmVyaWEvcHJpbmNpcGFsLWxpYnJlcmlhLnBhZ2Uuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5jb250ZW50IHtcclxuICAgIG92ZXJmbG93LXk6aGlkZGVuO1xyXG4gICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7XHJcbn1cclxuLm9wdGlvbnMge1xyXG4gICAgbWFyZ2luLXRvcDogMTJweDtcclxufVxyXG4uYXZhdGFyLXByb2ZpbGUge1xyXG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xyXG4gICAgbGVmdDogMjk1cHg7XHJcbiAgICBtYXJnaW4tdG9wOiA1M3B4O1xyXG4gICAgd2lkdGg6IDYwcHg7XHJcbiAgICBoZWlnaHQ6IDYwcHg7XHJcbn1cclxuLmJhci1zdGFibGUge1xyXG4gICAgbWFyZ2luLXRvcDogMTJweDtcclxufVxyXG4udG9vbC1mb290IHtcclxuICAgIHRleHQtYWxpZ246IGNlbnRlcjsgXHJcbiAgICBtYXJnaW4tdG9wOiAxMHB4XHJcblxyXG59XHJcbi5jYXJkLXRpdHVsbyB7XHJcbiAgICBjb2xvcjogcmdiKDYxLCA2MSwgMjQwKTtcclxuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcclxuICAgIGZvbnQtc2l6ZTogMTdweDtcclxuICAgIGhlaWdodDogNDVweDsgXHJcbiAgICBtYXJnaW4tdG9wOiAtMjRweDtcclxufVxyXG4uYnV0dG9uLWV2ZW50LCAuYnV0dG9uLWJvb2sge1xyXG4gICAgd2lkdGg6IDEyMnB4O1xyXG4gICAgaGVpZ2h0OiAzOHB4O1xyXG4gICAgbWFyZ2luLXRvcDogMTRweDtcclxuICAgIG1hcmdpbi1ib3R0b206IDEycHg7XHJcbn1cclxuLmxvY2FsaXphY2lvbiwgLnNoYXJlIHtcclxuICAgIGZvbnQtc2l6ZTogMTdweDtcclxufVxyXG4ub3B0aW9uIHtcclxuICAgIGZvbnQtc2l6ZTogMTVweDtcclxufVxyXG4ucmVzZXJ2YWRve1xyXG4gICAgZm9udC1zaXplOiAxNXB4O1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgbGVmdDogMDtcclxufVxyXG4ucGVyc29uYVJlc2VydmFMaWJyb3tcclxuICAgIGZvbnQtc2l6ZTogMTNweDtcclxufVxyXG4uaW1hZ2VuIHtcclxuICAgIHdpZHRoOiAzNDRweDtcclxuICAgIGhlaWdodDogMjA1cHg7XHJcbn1cclxuLmltYWdlbkNhcmQge1xyXG4gICAgd2lkdGg6IDEwMCU7XHJcbiAgICBoZWlnaHQ6IDEwMCU7XHJcbn1cclxuIl19 */";
+      __webpack_exports__["default"] = ".content {\n  overflow-y: hidden;\n  background-color: white;\n}\n\n.options {\n  margin-top: 12px;\n}\n\n.avatar-profile {\n  position: relative;\n  left: 285px;\n  margin-top: 6px;\n  width: 60px;\n  height: 60px;\n}\n\n.bar-stable {\n  margin-top: 12px;\n}\n\n.tool-foot {\n  text-align: center;\n  margin-top: 10px;\n}\n\n.card-titulo {\n  color: #3d3df0;\n  text-align: center;\n  font-size: 17px;\n  height: 45px;\n  margin-top: -24px;\n}\n\n.button-event, .button-book {\n  width: 122px;\n  height: 38px;\n  margin-top: 14px;\n  margin-bottom: 12px;\n}\n\n.localizacion, .share {\n  font-size: 17px;\n}\n\n.option {\n  font-size: 15px;\n}\n\n.reservado {\n  font-size: 15px;\n  position: absolute;\n  left: 0;\n}\n\n.personaReservaLibro {\n  font-size: 13px;\n}\n\n.imagen {\n  width: 344px;\n  height: 205px;\n}\n\n.imagenCard {\n  width: 100%;\n  height: 100%;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcGFnZXMvcHJpbmNpcGFsLWxpYnJlcmlhL3ByaW5jaXBhbC1saWJyZXJpYS5wYWdlLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDSSxrQkFBQTtFQUNBLHVCQUFBO0FBQ0o7O0FBQ0E7RUFDSSxnQkFBQTtBQUVKOztBQUFBO0VBQ0ksa0JBQUE7RUFDQSxXQUFBO0VBQ0EsZUFBQTtFQUNBLFdBQUE7RUFDQSxZQUFBO0FBR0o7O0FBREE7RUFDSSxnQkFBQTtBQUlKOztBQUZBO0VBQ0ksa0JBQUE7RUFDQSxnQkFBQTtBQUtKOztBQUZBO0VBQ0ksY0FBQTtFQUNBLGtCQUFBO0VBQ0EsZUFBQTtFQUNBLFlBQUE7RUFDQSxpQkFBQTtBQUtKOztBQUhBO0VBQ0ksWUFBQTtFQUNBLFlBQUE7RUFDQSxnQkFBQTtFQUNBLG1CQUFBO0FBTUo7O0FBSkE7RUFDSSxlQUFBO0FBT0o7O0FBTEE7RUFDSSxlQUFBO0FBUUo7O0FBTkE7RUFDSSxlQUFBO0VBQ0Esa0JBQUE7RUFDQSxPQUFBO0FBU0o7O0FBUEE7RUFDSSxlQUFBO0FBVUo7O0FBUkE7RUFDSSxZQUFBO0VBQ0EsYUFBQTtBQVdKOztBQVRBO0VBQ0ksV0FBQTtFQUNBLFlBQUE7QUFZSiIsImZpbGUiOiJzcmMvYXBwL3BhZ2VzL3ByaW5jaXBhbC1saWJyZXJpYS9wcmluY2lwYWwtbGlicmVyaWEucGFnZS5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmNvbnRlbnQge1xyXG4gICAgb3ZlcmZsb3cteTpoaWRkZW47XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTtcclxufVxyXG4ub3B0aW9ucyB7XHJcbiAgICBtYXJnaW4tdG9wOiAxMnB4O1xyXG59XHJcbi5hdmF0YXItcHJvZmlsZSB7XHJcbiAgICBwb3NpdGlvbjogcmVsYXRpdmU7XHJcbiAgICBsZWZ0OiAyODVweDtcclxuICAgIG1hcmdpbi10b3A6IDZweDtcclxuICAgIHdpZHRoOiA2MHB4O1xyXG4gICAgaGVpZ2h0OiA2MHB4O1xyXG59XHJcbi5iYXItc3RhYmxlIHtcclxuICAgIG1hcmdpbi10b3A6IDEycHg7XHJcbn1cclxuLnRvb2wtZm9vdCB7XHJcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7IFxyXG4gICAgbWFyZ2luLXRvcDogMTBweFxyXG5cclxufVxyXG4uY2FyZC10aXR1bG8ge1xyXG4gICAgY29sb3I6IHJnYig2MSwgNjEsIDI0MCk7XHJcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbiAgICBmb250LXNpemU6IDE3cHg7XHJcbiAgICBoZWlnaHQ6IDQ1cHg7IFxyXG4gICAgbWFyZ2luLXRvcDogLTI0cHg7XHJcbn1cclxuLmJ1dHRvbi1ldmVudCwgLmJ1dHRvbi1ib29rIHtcclxuICAgIHdpZHRoOiAxMjJweDtcclxuICAgIGhlaWdodDogMzhweDtcclxuICAgIG1hcmdpbi10b3A6IDE0cHg7XHJcbiAgICBtYXJnaW4tYm90dG9tOiAxMnB4O1xyXG59XHJcbi5sb2NhbGl6YWNpb24sIC5zaGFyZSB7XHJcbiAgICBmb250LXNpemU6IDE3cHg7XHJcbn1cclxuLm9wdGlvbiB7XHJcbiAgICBmb250LXNpemU6IDE1cHg7XHJcbn1cclxuLnJlc2VydmFkb3tcclxuICAgIGZvbnQtc2l6ZTogMTVweDtcclxuICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcclxuICAgIGxlZnQ6IDA7XHJcbn1cclxuLnBlcnNvbmFSZXNlcnZhTGlicm97XHJcbiAgICBmb250LXNpemU6IDEzcHg7XHJcbn1cclxuLmltYWdlbiB7XHJcbiAgICB3aWR0aDogMzQ0cHg7XHJcbiAgICBoZWlnaHQ6IDIwNXB4O1xyXG59XHJcbi5pbWFnZW5DYXJkIHtcclxuICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgaGVpZ2h0OiAxMDAlO1xyXG59XHJcbiJdfQ== */";
       /***/
     },
 
@@ -308,45 +308,59 @@
           key: "loadData",
           value: function loadData(event) {
             return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"])(this, void 0, void 0, /*#__PURE__*/regeneratorRuntime.mark(function _callee2() {
+              var numeroVariableAntiguoEvento, numeroVariableNuevoEvento, numeroVariableAntiguoLibro, numeroVariableNuevoLibro;
               return regeneratorRuntime.wrap(function _callee2$(_context2) {
                 while (1) {
                   switch (_context2.prev = _context2.next) {
                     case 0:
-                      console.log('load'); //Tenemos una lista de todos los eventos cargados
-                      //Tenemos una lista que va a ir cargando los eventos poco a poco - esta es la que se usa
-
                       if (!this.booleanEventos) {
                         _context2.next = 9;
                         break;
                       }
 
-                      console.log('load 1'); //limite de eventos propios
+                      //Limite de eventos propios
+                      this.limitePropio = this.limitePropio + 3; //Antes de llamar al servicio coger los eventos que tenemos ahora mismo
 
-                      this.limitePropio = this.limitePropio + 3; //Cargar en la lista propia mis eventos
+                      numeroVariableAntiguoEvento = this.eventosPropios.length; //Cargar en la lista propia mis eventos
 
-                      _context2.next = 6;
+                      _context2.next = 5;
                       return this._eventoService.getEventos(this.limitePropio);
 
-                    case 6:
-                      this.eventosPropios = this._eventoService.eventosPropios;
-                      _context2.next = 14;
+                    case 5:
+                      //Saber los eventos que tenemos nuevos
+                      numeroVariableNuevoEvento = this._eventoService.eventosPropios.length; //Carga del servicio la lista de los eventos
+
+                      if (numeroVariableAntiguoEvento == numeroVariableNuevoEvento) {
+                        event.target.disabled = true;
+                      } else {
+                        this.eventosPropios = this._eventoService.eventosPropios;
+                      }
+
+                      _context2.next = 15;
                       break;
 
                     case 9:
-                      console.log('load 2'); //limite de libros propios
+                      //Limite de libros propios
+                      this.limiteLibrosPropio = this.limiteLibrosPropio + 3; //Antes de llamar al servicio coger los libros que tenemos ahora mismo
 
-                      this.limiteLibrosPropio = this.limiteLibrosPropio + 3; //Cargar en la lista de libros propios
+                      numeroVariableAntiguoLibro = this.librosPropios.length; //Cargar en la lista de libros propios
 
                       _context2.next = 13;
                       return this._libroService.getLibros(this.limiteLibrosPropio);
 
                     case 13:
-                      this.librosPropios = this._libroService.librosPropios;
+                      //Saber los libros que tenemos nuevos
+                      numeroVariableNuevoLibro = this._libroService.librosPropios.length; //Carga del servicio la lista de los libros
 
-                    case 14:
-                      //completar la accion de cargar los eventos
+                      if (numeroVariableAntiguoLibro == numeroVariableNuevoLibro) {
+                        event.target.disabled = true;
+                      } else {
+                        this.librosPropios = this._libroService.librosPropios;
+                      }
+
+                    case 15:
+                      //Completar la accion de cargar los eventos
                       event.target.complete();
-                      console.log('load complete');
 
                     case 16:
                     case "end":
@@ -364,20 +378,21 @@
                 while (1) {
                   switch (_context3.prev = _context3.next) {
                     case 0:
+                      this.infiniteScroll.disabled = false;
                       this.booleanEventos = true; //Quitar de la lista contraria los libros 
 
                       this.librosPropios = []; //limite de eventos propios
 
                       this.limitePropio = 3; //llamar al servicio para llamar al back para recuperar los eventos
 
-                      _context3.next = 5;
+                      _context3.next = 6;
                       return this._eventoService.getEventos(this.limitePropio);
 
-                    case 5:
+                    case 6:
                       //Carga del servicio la lista de los eventos
                       this.eventosPropios = this._eventoService.eventosPropios;
 
-                    case 6:
+                    case 7:
                     case "end":
                       return _context3.stop();
                   }
@@ -393,20 +408,21 @@
                 while (1) {
                   switch (_context4.prev = _context4.next) {
                     case 0:
+                      this.infiniteScroll.disabled = false;
                       this.booleanEventos = false; //Quitar de la lista contraria los eventos 
 
                       this.eventosPropios = []; //limite de libros propios
 
                       this.limiteLibrosPropio = 3; //llamar al servicio para llamar al back para recuperar los libros
 
-                      _context4.next = 5;
+                      _context4.next = 6;
                       return this._libroService.getLibros(this.limiteLibrosPropio);
 
-                    case 5:
+                    case 6:
                       //Carga del servicio la lista de los libros
                       this.librosPropios = this._libroService.librosPropios;
 
-                    case 6:
+                    case 7:
                     case "end":
                       return _context4.stop();
                   }
